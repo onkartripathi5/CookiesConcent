@@ -1,0 +1,29 @@
+.toggleable-subheading-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .toggleable-subheading-title-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .toggleable-subheading-title {
+    margin: 0;
+  }
+  
+  .toggleable-subheading-scroller {
+    display: flex;
+    align-items: center;
+  }
+  
+  .toggleable-subheading-indicator {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 4px;
+  }
+  
+  
